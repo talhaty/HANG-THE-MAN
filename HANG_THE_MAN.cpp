@@ -1,4 +1,4 @@
-//              TALHA YUNUS    (2020497) 
+
 //  NOTE:   Country_and_City_names.txt   file must be in the same folder 
 #include <iostream>
 #include <fstream>
